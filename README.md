@@ -18,23 +18,16 @@
 
 ![Issue breakdown](figures/issue_breakdown.png)
 
-## Why This Project Matters
+## Overview
 
-This project complements a dashboard demo and a quant research project by showing a third skill set: tool-building.
+This repo focuses on reusable validation checks, repeatable reporting, and practical data-reliability workflows.
 
-It demonstrates how to:
+## Highlights
 
 - inspect raw datasets systematically
 - define clear validation checks
 - generate repeatable quality summaries
 - present technical findings in a readable format
-
-## Project Structure
-
-- `data/`: sample raw data and generated summaries
-- `figures/`: visualization output
-- `reports/`: markdown report produced by the checker
-- `src/`: data generation and validation code
 
 ## Quick Start
 
@@ -46,7 +39,7 @@ python src/generate_sample_data.py
 python src/run_checks.py
 ```
 
-## Checks included
+## Checks Included
 
 - row count and duplicate detection
 - missing-value profile by column
@@ -64,6 +57,13 @@ After running the scripts, you should see:
 - `reports/data_quality_report.md`
 - `figures/missingness_by_column.png`
 - `figures/issue_breakdown.png`
+
+## Project Structure
+
+- `data/`: sample raw data and generated summaries
+- `figures/`: visualization output
+- `reports/`: markdown report produced by the checker
+- `src/`: data generation and validation code
 
 ## Notes
 
