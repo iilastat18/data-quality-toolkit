@@ -1,0 +1,10 @@
+issue,count,severity
+duplicate_rows,14,high
+missing_price,24,medium
+missing_score,19,medium
+missing_category,13,medium
+negative_quantity,9,high
+stale_timestamp,20,high
+unexpected_status,6,medium
+price_outliers,6,medium
+score_outliers,1,low
