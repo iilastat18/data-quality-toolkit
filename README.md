@@ -12,17 +12,13 @@
   <code>synthetic sample data</code>
 </p>
 
-## Portfolio Role
-
-This is the tooling and reliability repo in the portfolio. It helps balance the more visual projects by showing practical validation logic and report generation.
-
 ## Preview
 
 ![Missingness by column](figures/missingness_by_column.png)
 
 ![Issue breakdown](figures/issue_breakdown.png)
 
-## Why this project matters
+## Why This Project Matters
 
 This project complements a dashboard demo and a quant research project by showing a third skill set: tool-building.
 
@@ -69,12 +65,7 @@ After running the scripts, you should see:
 - `figures/missingness_by_column.png`
 - `figures/issue_breakdown.png`
 
-## Portfolio framing
+## Notes
 
-This is not meant to be a production-grade validation framework. It is a compact, explainable toolkit that shows how I think about data reliability, monitoring, and reusable engineering patterns.
-
-## Screenshot Strategy
-
-- use the issue breakdown chart as the first visual
-- optionally include the generated markdown report or summary CSV preview
-- frame screenshots around clarity of checks and outputs, not just raw code
+- This is a compact, explainable toolkit rather than a production-grade validation framework.
+- The project is meant to show reusable validation patterns, reporting, and data-reliability thinking.
