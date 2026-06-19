@@ -16,6 +16,12 @@
 
 This is the tooling and reliability repo in the portfolio. It helps balance the more visual projects by showing practical validation logic and report generation.
 
+## Preview
+
+![Missingness by column](figures/missingness_by_column.png)
+
+![Issue breakdown](figures/issue_breakdown.png)
+
 ## Why this project matters
 
 This project complements a dashboard demo and a quant research project by showing a third skill set: tool-building.
@@ -62,12 +68,6 @@ After running the scripts, you should see:
 - `reports/data_quality_report.md`
 - `figures/missingness_by_column.png`
 - `figures/issue_breakdown.png`
-
-## Preview Charts
-
-![Missingness by column](figures/missingness_by_column.png)
-
-![Issue breakdown](figures/issue_breakdown.png)
 
 ## Portfolio framing
 
